@@ -42,7 +42,7 @@ You Require to install
 
 ### Contact Info:
 
-subbysav123@gail.com
+subbysav123@gmail.com
 
 ## License
 
